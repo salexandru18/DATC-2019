@@ -1,0 +1,14 @@
+/home/student/Desktop/KokoSilviuL2/bin/Debug/netcoreapp2.1/KokoSilviuL2.deps.json
+/home/student/Desktop/KokoSilviuL2/bin/Debug/netcoreapp2.1/KokoSilviuL2.runtimeconfig.json
+/home/student/Desktop/KokoSilviuL2/bin/Debug/netcoreapp2.1/KokoSilviuL2.runtimeconfig.dev.json
+/home/student/Desktop/KokoSilviuL2/bin/Debug/netcoreapp2.1/KokoSilviuL2.dll
+/home/student/Desktop/KokoSilviuL2/bin/Debug/netcoreapp2.1/KokoSilviuL2.pdb
+/home/student/Desktop/KokoSilviuL2/obj/Debug/netcoreapp2.1/KokoSilviuL2.csprojAssemblyReference.cache
+/home/student/Desktop/KokoSilviuL2/obj/Debug/netcoreapp2.1/KokoSilviuL2.csproj.CoreCompileInputs.cache
+/home/student/Desktop/KokoSilviuL2/obj/Debug/netcoreapp2.1/KokoSilviuL2.RazorAssemblyInfo.cache
+/home/student/Desktop/KokoSilviuL2/obj/Debug/netcoreapp2.1/KokoSilviuL2.RazorAssemblyInfo.cs
+/home/student/Desktop/KokoSilviuL2/obj/Debug/netcoreapp2.1/KokoSilviuL2.AssemblyInfoInputs.cache
+/home/student/Desktop/KokoSilviuL2/obj/Debug/netcoreapp2.1/KokoSilviuL2.AssemblyInfo.cs
+/home/student/Desktop/KokoSilviuL2/obj/Debug/netcoreapp2.1/KokoSilviuL2.RazorTargetAssemblyInfo.cache
+/home/student/Desktop/KokoSilviuL2/obj/Debug/netcoreapp2.1/KokoSilviuL2.dll
+/home/student/Desktop/KokoSilviuL2/obj/Debug/netcoreapp2.1/KokoSilviuL2.pdb
